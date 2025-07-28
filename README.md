@@ -95,7 +95,7 @@ Visit `http://localhost:3000` to see the API documentation.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nestjs-mongodb-sample.git
+git clone https://github.com/shahrob/nestjs-mongodb-sample.git
 cd nestjs-mongodb-sample
 
 # Install dependencies
