@@ -95,8 +95,8 @@ Visit `http://localhost:3000` to see the API documentation.
 
 ```bash
 # Clone the repository
-git clone https://github.com/shahrob/nestjs-mongodb-sample.git
-cd nestjs-mongodb-sample
+git clone https://github.com/shahrob//Nest-Js-MVC.git
+cd Nest-Js-MVC
 
 # Install dependencies
 npm install
@@ -125,8 +125,8 @@ Visit `http://localhost:3000` to see the API documentation.
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd SampleProject
+git clone https://github.com/shahrob//Nest-Js-MVC.git
+cd Nest-Js-MVC
 ```
 
 2. Install dependencies:
@@ -471,13 +471,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support & Contact
 
 - **Issues**: Please open an issue in the repository
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-
----
+- **Email**: shahrobk@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shahrob-abbas/)
+- **Upwork**: [Hire me on Upwork](https://www.upwork.com/freelancers/~01589f1d414475058b)
 
 <div align="center">
   <p>⭐ Star this repository if you find it helpful!</p>
-  <p>Made with ❤️ by [Your Name]</p>
+  <p>Made with ❤️ by Muhammad Shahrob Abbas (SR.Full Stack Developer)</p>
 </div>
